@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=Exo:100,200,400);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:700,400,300);
+
+.body{
+     position: absolute;
+     top: -20px;
+     left: -20px;
+     right: -40px;
+     bottom: -40px;
+     width: auto;
+     height: auto;
+     background-image: url(http://ginva.com/wp-content/uploads/2012/07/city-skyline-wallpapers-008.jpg);
